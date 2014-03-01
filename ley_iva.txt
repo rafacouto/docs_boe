@@ -1966,17 +1966,17 @@ Entre los servicios de intervención se comprenderán la calificación,
 inscripción y demás servicios relativos a la constitución, modificación
 y extinción de las garantías a que se refiere la letra f) anterior.
 
-19.º Las loterías, apuestas y juegos organizados por el Organismo
-Nacional de Loterías y Apuestas del Estado, la Organización Nacional de
-Ciegos y por los organismos correspondientes de las Comunidades
-Autónomas, así como las actividades que constituyan los hechos
-imponibles de la tasa sobre rifas, tómbolas, apuestas y combinaciones
-aleatorias o de la tasa que grava los juegos de suerte, envite o azar.
+19.º Las loterías, apuestas y juegos organizados por la Sociedad Estatal
+Loterías y Apuestas del Estado y la Organización Nacional de Ciegos y
+por los organismos correspondientes de las Comunidades Autónomas, así
+como las actividades que constituyan los hechos imponibles de los
+tributos sobre el juego y combinaciones aleatorias.
 
 La exención no se extiende a los servicios de gestión y demás
 operaciones de carácter accesorio o complementario de las incluidas en
-el párrafo anterior que no constituyan el hecho imponible de las
-referidas tasas, con excepción de los servicios de gestión del bingo.
+el párrafo anterior que no constituyan el hecho imponible de los
+tributos sobre el juego, con excepción de los servicios de gestión del
+bingo.
 
 20.º Las entregas de terrenos rústicos y demás que no tengan la
 condición de edificables, incluidas las construcciones de cualquier
@@ -5706,6 +5706,9 @@ comercio de derechos de emisión de gases de efecto invernadero y el Real
 Decreto 1031/2007, de 20 de julio, por el que se desarrolla el marco de
 participación en los mecanismos de flexibilidad del Protocolo de Kioto.
 
+e) Cuando se trate de entregas de bienes inmuebles efectuadas como
+consecuencia de un proceso concursal.
+
 3.º Las personas jurídicas que no actúen como empresarios o
 profesionales pero sean destinatarias de las operaciones sujetas al
 Impuesto que se indican a continuación realizadas por empresarios o
@@ -7560,19 +7563,21 @@ realizarse también a través de entidades colaboradoras, en las
 condiciones que se determinen reglamentariamente.
 
 Artículo 117 bis. Solicitudes de devolución de empresarios o
-profesionales establecidos en el territorio de aplicación del Impuesto
-correspondientes a cuotas soportadas por operaciones efectuadas en la
-Comunidad con excepción de las realizadas en dicho territorio.
+profesionales establecidos en el territorio de aplicación del Impuesto,
+Islas Canarias, Ceuta y Melilla correspondientes a cuotas soportadas por
+operaciones efectuadas en la Comunidad con excepción de las realizadas
+en el territorio de aplicación del Impuesto.
 
 Los empresarios o profesionales que estén establecidos en el territorio
-de aplicación del Impuesto solicitarán la devolución de las cuotas
-soportadas por adquisiciones o importaciones de bienes o servicios
-efectuadas en la Comunidad, con excepción de las realizadas en dicho
-territorio, mediante la presentación por vía electrónica de una
-solicitud a través de los formularios dispuestos al efecto en el portal
-electrónico de la Agencia Estatal de la Administración Tributaria.
+de aplicación del Impuesto, Islas Canarias, Ceuta y Melilla, solicitarán
+la devolución de las cuotas soportadas por adquisiciones o importaciones
+de bienes o servicios efectuadas en la Comunidad, con excepción de las
+realizadas en el territorio de aplicación del Impuesto, mediante la
+presentación por vía electrónica de una solicitud a través de los
+formularios dispuestos al efecto en el portal electrónico de la Agencia
+Estatal de Administración Tributaria.
 
-La recepción y tramitación de la solicitud a que se refiere este
+La recepción y la tramitación de la solicitud a que se refiere este
 artículo se llevarán a cabo a través del procedimiento que se establezca
 reglamentariamente.
 
@@ -10106,19 +10111,24 @@ de ejecución forzosa.
 
 En los procedimientos administrativos y judiciales de ejecución forzosa,
 los adjudicatarios que tengan la condición de empresario o profesional a
-efectos de este Impuesto están facultados, en nombre y por cuenta del
+efectos de este impuesto están facultados, en nombre y por cuenta del
 sujeto pasivo, y con respecto a las entregas de bienes y prestaciones de
 servicios sujetas al mismo que se produzcan en aquéllos, para:
 
 1.º Expedir la factura en que se documente la operación y se repercuta
-la cuota del Impuesto, presentar la declaración-liquidación
-correspondiente e ingresar el importe del Impuesto resultante.
+la cuota del impuesto, presentar la declaración-liquidación
+correspondiente e ingresar el importe del impuesto resultante.
 
 2.º Efectuar, en su caso, la renuncia a las exenciones prevista en el
-apartado Dos del artículo 20 de esta Ley.
+artículo 20.2.
 
 Reglamentariamente se determinarán las condiciones y requisitos para el
 ejercicio de estas facultades.
+
+Lo dispuesto en la presente disposición no se aplicará a las entregas de
+bienes inmuebles en las que el sujeto pasivo de las mismas sea su
+destinatario de acuerdo con lo dispuesto en la letra e) del artículo
+84.1.2.º
 
 Disposición transitoria primera. Franquicias relativas a los viajeros
 procedentes de Canarias, Ceuta y Melilla.

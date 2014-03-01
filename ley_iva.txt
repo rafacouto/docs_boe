@@ -651,20 +651,12 @@ Cuatro. Las operaciones sujetas a este impuesto no estarán sujetas al
 concepto «transmisiones patrimoniales onerosas» del Impuesto sobre
 Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
-Se exceptúan de lo dispuesto en el párrafo anterior las operaciones que
-se indican a continuación:
-
-a) Las entregas y arrendamientos de bienes inmuebles, así como la
-constitución o transmisión de derechos reales de goce o disfrute que
-recaigan sobre los mismos, cuando estén exentos del impuesto, salvo en
-los casos en que el sujeto pasivo renuncie a la exención en las
-circunstancias y con las condiciones recogidas en el artículo 20.Dos.
-
-b) Las transmisiones de valores a que se refiere el artículo 108,
-apartado dos, números 1.ª y 2.ª de la Ley 24/1988, de 28 de julio, del
-Mercado de Valores, según la redacción establecida por la disposición
-adicional 12.ª de la Ley 18/1991, de 6 de junio, del Impuesto sobre la
-Renta de las Personas Físicas.
+Se exceptúan de lo dispuesto en el párrafo anterior las entregas y
+arrendamientos de bienes inmuebles, así como la constitución o
+transmisión de derechos reales de goce o disfrute que recaigan sobre los
+mismos, cuando estén exentos del impuesto, salvo en los casos en que el
+sujeto pasivo renuncie a la exención en las circunstancias y con las
+condiciones recogidas en el artículo 20.Dos.
 
 Artículo 5. Concepto de empresario o profesional.
 
@@ -984,17 +976,22 @@ Dos. También se considerarán entregas de bienes:
 1º. Las ejecuciones de obra que tengan por objeto la construcción o
 rehabilitación de una edificación, en el sentido del artículo 6 de esta
 ley, cuando el empresario que ejecute la obra aporte una parte de los
-materiales utilizados, siempre que el coste de los mismos exceda del 33
-por ciento de la base imponible.
+materiales utilizados, siempre que el coste de los mismos exceda del 40
+por 100 de la base imponible.
 
 2.º Las aportaciones no dinerarias efectuadas por los sujetos pasivos
-del impuesto de elementos de su patrimonio empresarial o profesional a
+del Impuesto de elementos de su patrimonio empresarial o profesional a
 sociedades o comunidades de bienes o a cualquier otro tipo de entidades
 y las adjudicaciones de esta naturaleza en caso de liquidación o
 disolución total o parcial de aquéllas, sin perjuicio de la tributación
-que proceda con arreglo a las normas reguladoras de los conceptos «actos
-jurídicos documentados» y «operaciones societarias» del Impuesto sobre
+que proceda con arreglo a las normas reguladoras de los conceptos "actos
+jurídicos documentados" y "operaciones societarias" del Impuesto sobre
 Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+En particular, se considerará entrega de bienes la adjudicación de
+terrenos o edificaciones promovidos por una comunidad de bienes
+realizada en favor de los comuneros, en proporción a su cuota de
+participación.
 
 3.º Las transmisiones de bienes en virtud de una norma o de una
 resolución administrativa o jurisdiccional, incluida la expropiación
@@ -1354,9 +1351,12 @@ Impuesto por aplicación de los criterios establecidos en el artículo 22,
 apartados uno al once, de esta Ley.
 
 g) Las adquisiciones de bienes que se correspondan con las entregas de
-gas a través del sistema de distribución de gas natural o de
-electricidad que se entiendan realizadas en el territorio de aplicación
-del impuesto de acuerdo con el apartado siete del artículo 68.
+gas a través de una red de gas natural situada en el territorio de la
+Comunidad o de cualquier red conectada a dicha red, las entregas de
+electricidad o las entregas de calor o de frío a través de las redes de
+calefacción o de refrigeración que se entiendan realizadas en el
+territorio de aplicación del impuesto de acuerdo con el apartado siete
+del artículo 68.
 
 2.ª Las adquisiciones intracomunitarias de medios de transporte nuevos,
 efectuadas a título oneroso por las personas a las que sea de aplicación
@@ -1648,8 +1648,8 @@ dichas operaciones.
 6.º Los servicios prestados directamente a sus miembros por uniones,
 agrupaciones o entidades autónomas, incluidas las Agrupaciones de
 Interés Económico, constituidas exclusivamente por personas que ejerzan
-esencialmente una actividad exenta o no sujeta al impuesto cuando
-concurran las siguientes condiciones:
+una actividad exenta o no sujeta al Impuesto que no origine el derecho a
+la deducción,cuando concurran las siguientes condiciones:
 
 a) Que tales servicios se utilicen directa y exclusivamente en dicha
 actividad y sean necesarios para el ejercicio de la misma.
@@ -1657,13 +1657,10 @@ actividad y sean necesarios para el ejercicio de la misma.
 b) Que los miembros se limiten a reembolsar la parte que les corresponda
 en los gastos hechos en común.
 
-c) Que se reconozca previamente el derecho de los sujetos pasivos a la
-exención en la forma que se determine reglamentariamente.
-
-Se entenderá a estos efectos que los miembros de una entidad ejercen
-esencialmente una actividad exenta o no sujeta al impuesto cuando el
-volumen total anual de las operaciones efectivamente gravadas por el
-impuesto no exceda del 10 por 100 del total de las realizadas.
+La exención también se aplicará cuando, cumplido el requisito previsto
+en la letra b) precedente, la prorrata de deducción no exceda del 10 por
+ciento y el servicio no se utilice directa y exclusivamente en las
+operaciones que originen el derecho a la deducción.
 
 La exención no alcanza a los servicios prestados por sociedades mercantiles.
 
@@ -1773,7 +1770,7 @@ las mismas efectuadas directamente a sus miembros por organismos o
 entidades legalmente reconocidos que no tengan finalidad lucrativa,
 cuyos objetivos sean exclusivamente de naturaleza política, sindical,
 religiosa, patriótica, filantrópica o cívica, realizadas para la
-conservación de sus finalidades específicas, siempre que no perciban de
+consecución de sus finalidades específicas, siempre que no perciban de
 los beneficiarios de tales operaciones contraprestación alguna distinta
 de las cotizaciones fijadas en sus estatutos.
 
@@ -1782,10 +1779,8 @@ profesionales, las Cámaras Oficiales, las Organizaciones patronales y
 las Federaciones que agrupen a los organismos o entidades a que se
 refiere este número.
 
-El disfrute de esta exención requerirá su previo reconocimiento por el
-órgano competente de la Administración tributaria, a condición de que no
-sea susceptible de producir distorsiones de competencia, según el
-procedimiento que reglamentariamente se fije.
+La aplicación de esta exención quedará condicionada a que no sea
+susceptible de producir distorsiones de competencia.
 
 13º. Los servicios prestados a personas físicas que practiquen el
 deporte o la educación física, cualquiera que sea la persona o entidad a
@@ -1930,10 +1925,17 @@ con excepción de los siguientes:
 
 a') Los representativos de mercaderías.
 
-b') Aquéllos cuya posesión asegure de hecho o de derecho la propiedad,
+b') Aquellos cuya posesión asegure de hecho o de derecho la propiedad,
 el uso o el disfrute exclusivo de la totalidad o parte de un bien
-inmueble. No tienen esta naturaleza las acciones o las participaciones
-en sociedades.
+inmueble, que no tengan la naturaleza de acciones o participaciones en
+sociedades.
+
+c') Aquellos valores no admitidos a negociación en un mercado secundario
+oficial, realizadas en el mercado secundario, mediante cuya transmisión
+se hubiera pretendido eludir el pago del impuesto correspondiente a la
+transmisión de los inmuebles propiedad de las entidades a las que
+representen dichos valores, en los términos a que se refiere el artículo
+108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
 
 l) La transmisión de los valores a que se refiere la letra anterior y
 los servicios relacionados con ella, incluso por causa de su emisión o
@@ -2019,11 +2021,11 @@ reparcelación en las condiciones señaladas en el párrafo anterior.
 Esta exención estará condicionada al cumplimiento de los requisitos
 exigidos por la legislación urbanística.
 
-22.º A) Las segundas y ulteriores entregas de edificaciones, incluidos
+22.ºA) Las segundas y ulteriores entregas de edificaciones, incluidos
 los terrenos en que se hallen enclavadas, cuando tengan lugar después de
 terminada su construcción o rehabilitación.
 
-A los efectos de lo dispuesto en esta ley, se considerará primera
+A los efectos de lo dispuesto en esta Ley, se considerará primera
 entrega la realizada por el promotor que tenga por objeto una
 edificación cuya construcción o rehabilitación esté terminada. No
 obstante, no tendrá la consideración de primera entrega la realizada por
@@ -2043,7 +2045,7 @@ unifamiliares, los terrenos urbanizados de carácter accesorio no podrán
 exceder de 5.000 metros cuadrados.
 
 Las transmisiones no sujetas al Impuesto en virtud de lo establecido en
-el número 1º del artículo 7 de esta ley no tendrán, en su caso, la
+el número 1.º del artículo 7 de esta Ley no tendrán, en su caso, la
 consideración de primera entrega a efectos de lo dispuesto en este número.
 
 La exención prevista en este número no se aplicará:
@@ -2054,6 +2056,9 @@ dedicadas habitualmente a realizar operaciones de arrendamiento
 financiero. A estos efectos, el compromiso de ejercitar la opción de
 compra frente al arrendador se asimilará al ejercicio de la opción de
 compra.
+
+Los contratos de arrendamiento financiero a que se refiere el párrafo
+anterior tendrán una duración mínima de diez años.
 
 b) A las entregas de edificaciones para su rehabilitación por el
 adquirente, siempre que se cumplan los requisitos que reglamentariamente
@@ -2228,9 +2233,9 @@ Tres. A efectos de lo dispuesto en este artículo, se considerarán
 entidades o establecimientos de carácter social aquéllos en los que
 concurran los siguientes requisitos:
 
-1.º Carácter de finalidad lucrativa y dedicar, en su caso, los
-beneficios eventualmente obtenidos al desarrollo de actividades exentas
-de idéntica naturaleza.
+1.º Carecer de finalidad lucrativa y dedicar, en su caso, los beneficios
+eventualmente obtenidos al desarrollo de actividades exentas de idéntica
+naturaleza.
 
 2.º Los cargos de presidente, patrono o representante legal deberán ser
 gratuitos y carecer de interés en los resultados económicos de la
@@ -2243,16 +2248,22 @@ operaciones exentas ni gozar de condiciones especiales en la prestación
 de los servicios.
 
 Este requisito no se aplicará cuando se trate de las prestaciones de
-servicios a que se refiere el apartado uno, números 8.º y 13.º de este
+servicios a que se refiere el apartado Uno, números 8.º y 13.º, de este
 artículo.
 
-Las entidades o establecimientos de carácter social deberán solicitar el
-reconocimiento de su condición en la forma que reglamentariamente se
-determine.
+Las entidades que cumplan los requisitos anteriores podrán solicitar de
+la Administración tributaria su calificación como entidades o
+establecimientos privados de carácter social en las condiciones,
+términos y requisitos que se determinen reglamentariamente. La eficacia
+de dicha calificación, que será vinculante para la Administración,
+quedará subordinada, en todo caso, a la subsistencia de las condiciones
+y requisitos que, según lo dispuesto en esta Ley, fundamentan la exención.
 
-La eficacia de dicho reconocimiento quedará subordinada, en todo caso, a
-la subsistencia de las condiciones y requisitos que, según lo dispuesto
-en esta Ley, fundamentan la exención.
+Las exenciones correspondientes a los servicios prestados por entidades
+o establecimientos de carácter social que reúnan los requisitos
+anteriores se aplicarán con independencia de la obtención de la
+calificación a que se refiere el párrafo anterior, siempre que se
+cumplan las condiciones que resulten aplicables en cada caso.
 
 Artículo 21. Exenciones en las exportaciones de bienes.
 
@@ -4660,28 +4671,11 @@ b) Los de transporte de bienes distintos de los referidos en el artículo
 72 de esta Ley cuyo destinatario no sea un empresario o profesional
 actuando como tal.
 
-    *Atención:* la Ley 2/2010, de 1 de marzo, da dos redacciones
-    distintas al apartado 3 con efectos en fechas diferentes, a
-    continuación se incorporan ambas redacciones:
-
-*[Redacción dada por el art. 1.7, con efectos desde el 1 de enero de
-2010 a 31 de diciembre de 2010]*:
-
-«3.º Los relacionados con manifestaciones culturales, artísticas,
-deportivas, científicas, educativas, recreativas, juegos de azar o
-similares, como las ferias o exposiciones, incluyendo los servicios de
-organización de los mismos y los demás servicios accesorios a los
-anteriores, cuando se presten materialmente en dicho territorio,
-cualquiera que sea su destinatario.»
-
-*[Redacción dada por la disposición transitoria 1, con efectos desde el
-1 de enero de 2011]:*
-
-«3.º El acceso a manifestaciones culturales, artísticas, deportivas,
+3.º El acceso a manifestaciones culturales, artísticas, deportivas,
 científicas, educativas, recreativas o similares, como las ferias y
 exposiciones, y los servicios accesorios al mismo, siempre que su
 destinatario sea un empresario o profesional actuando como tal y dichas
-manifestaciones tengan lugar efectivamente en el citado territorio.»
+manifestaciones tengan lugar efectivamente en el citado territorio.
 
 4.º Los prestados por vía electrónica desde la sede de actividad o un
 establecimiento permanente o, en su defecto, el lugar del domicilio o
@@ -4697,7 +4691,7 @@ territorio de aplicación del Impuesto cuando se efectúe el pago de la
 contraprestación del servicio con cargo a cuentas abiertas en
 establecimientos de entidades de crédito ubicadas en dicho territorio.
 
-5.º A) Los de restaurante y catering en los siguientes supuestos:
+5.º A) Los de restauración y catering en los siguientes supuestos:
 
 a) Los prestados a bordo de un buque, de un avión o de un tren, en el
 curso de la parte de un transporte de pasajeros realizado en la
@@ -4707,7 +4701,7 @@ aplicación del Impuesto.
 Cuando se trate de un transporte de ida y vuelta, el trayecto de vuelta
 se considerará como un transporte distinto.
 
-b) Los restantes servicios de restaurante y catering cuando se presten
+b) Los restantes servicios de restauración y catering cuando se presten
 materialmente en el territorio de aplicación del Impuesto.
 
 B) A los efectos de lo dispuesto en el apartado A), letra a), de este
@@ -4732,28 +4726,7 @@ operaciones respecto de las que se intermedie se entiendan realizadas en
 el territorio de aplicación del Impuesto de acuerdo con lo dispuesto en
 esta Ley.
 
-    *Atención:* la Ley 2/2010, de 1 de marzo, da dos redacciones
-    distintas al apartado 7 con efectos en fechas diferentes, a
-    continuación se incorporan ambas redacciones:
-
-*[Redacción dada por el art. 1.7, con efectos desde el 1 de enero de
-2010 a 31 de diciembre de 2010]*:
-
-«7.º Los que se enuncian a continuación, cuando se presten materialmente
-en dicho territorio y su destinatario no sea un empresario o profesional
-actuando como tal:
-
-a) Los servicios accesorios a los transportes tales como la carga y
-descarga, transbordo, manipulación y servicios similares.
-
-b) Los trabajos y las ejecuciones de obra realizados sobre bienes
-muebles corporales y los informes periciales, valoraciones y dictámenes
-relativos a dichos bienes.»
-
-*[Redacción dada por la disposición transitoria 2, con efectos desde el
-1 de enero de 2011]:*
-
-«7.º Los que se enuncian a continuación, cuando se presten materialmente
+7.º Los que se enuncian a continuación, cuando se presten materialmente
 en dicho territorio y su destinatario no sea un empresario o profesional
 actuando como tal:
 
@@ -4768,7 +4741,7 @@ c) Los servicios relacionados con manifestaciones culturales,
 artísticas, deportivas, científicas, educativas, recreativas, juegos de
 azar o similares, como las ferias y exposiciones, incluyendo los
 servicios de organización de los mismos y los demás servicios accesorios
-a los anteriores.»
+a los anteriores.
 
 8.º Los de telecomunicaciones, de radiodifusión y de televisión,
 prestados desde la sede de actividad o un establecimiento permanente o,
@@ -4786,9 +4759,11 @@ territorio de aplicación del Impuesto cuando se efectúe el pago de la
 contraprestación del servicio con cargo a cuentas abiertas en
 establecimientos de entidades de crédito ubicadas en dicho territorio.
 
-    *Atención:* la Ley 2/2010, de 1 de marzo, da dos redacciones
-    distintas al apartado 9 con efectos en fechas diferentes, a
-    continuación se incorporan ambas redacciones:
+    Téngase en cuenta que la Ley 2/2010, de 1 de marzo da dos
+    redacciones distintas al apartado 9 con efectos en fechas
+    diferentes, por lo que a continuación se incorporan ambas redacciones:
+
+ 
 
 *[Redacción dada por el art. 1.7, con efectos desde el 1 de enero de
 2010 a 31 de diciembre de 2012]*:
@@ -4998,8 +4973,27 @@ año por la parte proporcional correspondiente al periodo transcurrido
 desde el inicio de la operación, o desde el anterior devengo, hasta la
 citada fecha.
 
+Cuando los referidos suministros constituyan entregas de bienes
+comprendidas en los apartados Uno y Tres del artículo 25 de esta Ley, y
+no se haya pactado precio o cuando, habiéndose pactado, no se haya
+determinado el momento de su exigibilidad, o la misma se haya
+establecido con una periodicidad superior al mes natural, el devengo del
+Impuesto se producirá el último día de cada mes por la parte
+proporcional correspondiente al periodo transcurrido desde el inicio de
+la operación, o desde el anterior devengo, hasta la citada fecha.
+
 Se exceptúan de lo dispuesto en los párrafos anteriores las operaciones
 a que se refiere el párrafo segundo del número 1.º precedente.
+
+8.º En las entregas de bienes comprendidas en el artículo 25 de esta
+Ley, distintas de las señaladas en el número anterior, el devengo del
+Impuesto se producirá el día 15 del mes siguiente a aquél en el que se
+inicie la expedición o el transporte de los bienes con destino al
+adquirente.
+
+No obstante, si con anterioridad a la citada fecha se hubiera expedido
+factura por dichas operaciones, el devengo del Impuesto tendrá lugar en
+la fecha de expedición de la misma.
 
 Dos. No obstante lo dispuesto en el apartado anterior, en las
 operaciones sujetas a gravamen que originen pagos anticipados anteriores
@@ -5346,35 +5340,19 @@ su caso, no podrá efectuarse después de transcurrido el plazo máximo
 fijado en el número 5.º del apartado 1 del artículo 21 de la Ley
 22/2003, de 9 de julio, Concursal.
 
-    *Atención:* la Ley 62/2003, de 30 de diciembre, da dos redacciones
-    distintas al 2º párrafo del apartado 3 con efectos en fechas
-    diferentes, a continuación se incorporan ambas redacciones:
-
-*[Redacción dada por el art. 7.1.3, con efectos desde el 1 de enero de
-2004]*:
-
-«Sólo cuando se acuerde la conclusión del concurso por las causas
-expresadas en el artículo 176.1, apartados 1º, 3º y 5º de la Ley
+Solo cuando se acuerde la conclusión del concurso por las causas
+expresadas en el artículo 176.1, apartados 1.º, 4.º y 5.º de la Ley
 Concursal, el acreedor que hubiese modificado la base imponible deberá
 modificarla nuevamente al alza mediante la emisión, en el plazo que se
 fije reglamentariamente, de una factura rectificativa en la que se
-repercuta la cuota procedente.»
-
-*[Redacción dada por el art. 7.2, con entrada en vigor el 1 de
-septiembre de 2004]*:
-
-«Sólo cuando por cualquier causa se sobresea el expediente del concurso
-de acreedores, el acreedor que hubiese modificado la base imponible
-deberá modificarla nuevamente al alza mediante la emisión, en el plazo
-que se fije reglamentariamente, de una factura rectificativa en la que
-se repercuta la cuota procedente.»
+repercuta la cuota procedente.
 
 Cuatro. La base imponible también podrá reducirse proporcionalmente
 cuando los créditos correspondientes a las cuotas repercutidas por las
-operaciones gravadas sean total o parcialmente incobrables.
+operaciones gravadas sean total o parcialmente incobrables. A estos efectos:
 
-A estos efectos, un crédito se considerará total o parcialmente
-incobrable cuando reúna las siguientes condiciones:
+A) Un crédito se considerará total o parcialmente incobrable cuando
+reúna las siguientes condiciones:
 
 1.ª Que haya transcurrido un año desde el devengo del Impuesto
 repercutido sin que se haya obtenido el cobro de todo o parte del
@@ -5392,7 +5370,7 @@ superior a un año.
 
 Cuando el titular del derecho de crédito cuya base imponible se pretende
 reducir sea un empresario o profesional cuyo volumen de operaciones,
-calculado conforme a lo dispuesto en el artículo 121 de esta ley, no
+calculado conforme a lo dispuesto en el artículo 121 de esta Ley, no
 hubiese excedido durante el año natural inmediato anterior de
 6.010.121,04 euros, el plazo de un año a que se refiere esta condición
 1.ª será de seis meses.
@@ -5408,32 +5386,39 @@ aquélla, Impuesto sobre el Valor Añadido excluido, sea superior a 300 euros.
 judicial al deudor o por medio de requerimiento notarial al mismo,
 incluso cuando se trate de créditos afianzados por Entes públicos.
 
+Cuando se trate de las operaciones a plazos a que se refiere la
+condición 1ª anterior, resultará suficiente instar el cobro de uno de
+ellos mediante reclamación judicial al deudor o por medio de
+requerimiento notarial al mismo para proceder a la modificación de la
+base imponible en la proporción que corresponda por el plazo o plazos
+impagados.
+
 Cuando se trate de créditos adeudados por Entes públicos, la reclamación
-judicial o el requerimiento notarial a que se refiere la condición 4ª
+judicial o el requerimiento notarial a que se refiere la condición 4.ª
 anterior, se sustituirá por una certificación expedida por el órgano
 competente del Ente público deudor de acuerdo con el informe del
 Interventor o Tesorero de aquél en el que conste el reconocimiento de la
 obligación a cargo del mismo y su cuantía.
 
-La modificación deberá realizarse en el plazo de los tres meses
+B) La modificación deberá realizarse en el plazo de los tres meses
 siguientes a la finalización del periodo de un año a que se refiere la
 condición 1.ª anterior y comunicarse a la Agencia Estatal de
 Administración Tributaria en el plazo que se fije reglamentariamente.
 
 Cuando el titular del derecho de crédito cuya base imponible se pretende
 reducir sea un empresario o profesional cuyo volumen de operaciones,
-calculado conforme a lo dispuesto en el artículo 121 de esta ley, no
+calculado conforme a lo dispuesto en el artículo 121 de esta Ley, no
 hubiese excedido durante el año natural inmediato anterior de
 6.010.121,04 euros, el plazo de un año a que se refiere el párrafo
 anterior será de seis meses.
 
-Una vez practicada la reducción de la base imponible, ésta no se volverá
-a modificar al alza aunque el sujeto pasivo obtuviese el cobro total o
-parcial de la contraprestación, salvo cuando el destinatario no actúe en
-la condición de empresario o profesional. En este caso, se entenderá que
-el Impuesto sobre el Valor Añadido está incluido en las cantidades
-percibidas y en la misma proporción que la parte de contraprestación
-percibida.
+C) Una vez practicada la reducción de la base imponible, ésta no se
+volverá a modificar al alza aunque el sujeto pasivo obtuviese el cobro
+total o parcial de la contraprestación, salvo cuando el destinatario no
+actúe en la condición de empresario o profesional. En este caso, se
+entenderá que el Impuesto sobre el Valor Añadido está incluido en las
+cantidades percibidas y en la misma proporción que la parte de
+contraprestación percibida.
 
 No obstante lo dispuesto en el párrafo anterior, cuando el sujeto pasivo
 desista de la reclamación judicial al deudor o llegue a un acuerdo de
@@ -5458,13 +5443,13 @@ recíproca o cubiertos por un contrato de seguro de crédito o de caución,
 en la parte afianzada o asegurada.
 
 c) Créditos entre personas o entidades vinculadas definidas en el
-artículo 79, apartado cinco de esta ley.
+artículo 79, apartado cinco, de esta Ley.
 
 d) Créditos adeudados o afianzados por Entes públicos.
 
 Lo dispuesto en esta letra d) no se aplicará a la reducción de la base
 imponible realizada de acuerdo con el apartado cuatro del artículo 80 de
-esta ley para los créditos que se consideren total o parcialmente
+esta Ley para los créditos que se consideren total o parcialmente
 incobrables, sin perjuicio de la necesidad de cumplir con el requisito
 de acreditación documental del impago a que se refiere la condición 4.ª
 de dicho precepto.
@@ -5473,19 +5458,29 @@ de dicho precepto.
 destinatario de las operaciones no esté establecido en el territorio de
 aplicación del Impuesto, ni en Canarias, Ceuta o Melilla.
 
-3.ª En los supuestos de pago parcial anteriores a la citada
+3.ª Tampoco procederá la modificación de la base imponible de acuerdo
+con el apartado cuatro del artículo 80 de esta Ley con posterioridad al
+auto de declaración de concurso para los créditos correspondientes a
+cuotas repercutidas por operaciones cuyo devengo se produzca con
+anterioridad a dicho auto.
+
+4.ª En los supuestos de pago parcial anteriores a la citada
 modificación, se entenderá que el Impuesto sobre el Valor Añadido está
 incluido en las cantidades percibidas y en la misma proporción que la
 parte de contraprestación satisfecha.
 
-4.ª La rectificación de las deducciones del destinatario de las
+5.ª La rectificación de las deducciones del destinatario de las
 operaciones, que deberá practicarse según lo dispuesto en el artículo
-114, apartado dos, número 2.º, segundo párrafo de esta ley, determinará
+114, apartado dos, número 2.º, segundo párrafo, de esta Ley, determinará
 el nacimiento del correspondiente crédito en favor de la Hacienda Pública.
 
 Si el destinatario de las operaciones sujetas no hubiese tenido derecho
 a la deducción total del Impuesto, resultará también deudor frente a la
 Hacienda Pública por el importe de la cuota del impuesto no deducible.
+En el supuesto de que el destinatario no actúe en la condición de
+empresario o profesional y en la medida en que no haya satisfecho dicha
+deuda, resultará de aplicación lo establecido en el apartado Cuatro.C)
+anterior.
 
 Seis. Si el importe de la contraprestación no resultara conocido en el
 momento del devengo del impuesto, el sujeto pasivo deberá fijarlo
@@ -5706,8 +5701,29 @@ comercio de derechos de emisión de gases de efecto invernadero y el Real
 Decreto 1031/2007, de 20 de julio, por el que se desarrolla el marco de
 participación en los mecanismos de flexibilidad del Protocolo de Kioto.
 
-e) Cuando se trate de entregas de bienes inmuebles efectuadas como
-consecuencia de un proceso concursal.
+e) Cuando se trate de las siguientes entregas de bienes inmuebles:
+
+– Las entregas efectuadas como consecuencia de un proceso concursal.
+
+– Las entregas exentas a que se refieren los apartados 20.º y 22.º del
+artículo 20.Uno en las que el sujeto pasivo hubiera renunciado a la
+exención.
+
+– Las entregas efectuadas en ejecución de la garantía constituida sobre
+los bienes inmuebles, entendiéndose, asimismo, que se ejecuta la
+garantía cuando se transmite el inmueble a cambio de la extinción total
+o parcial de la deuda garantizada o de la obligación de extinguir la
+referida deuda por el adquirente.
+
+f) Cuando se trate de ejecuciones de obra, con o sin aportación de
+materiales, así como las cesiones de personal para su realización,
+consecuencia de contratos directamente formalizados entre el promotor y
+el contratista que tengan por objeto la urbanización de terrenos o la
+construcción o rehabilitación de edificaciones.
+
+Lo establecido en el párrafo anterior será también de aplicación cuando
+los destinatarios de las operaciones sean a su vez el contratista
+principal u otros subcontratistas en las condiciones señaladas.
 
 3.º Las personas jurídicas que no actúen como empresarios o
 profesionales pero sean destinatarias de las operaciones sujetas al
@@ -5726,12 +5742,14 @@ de esta Ley.
 4.° Sin perjuicio de lo dispuesto en los números anteriores, los
 empresarios o profesionales, así como las personas jurídicas que no
 actúen como empresarios o profesionales, que sean destinatarios de
-entregas de gas y electricidad que se entiendan realizadas en el
-territorio de aplicación del impuesto conforme a lo dispuesto en el
-apartado siete del artículo 68, siempre que la entrega la efectúe un
-empresario o profesional no establecido en el citado territorio y le
-hayan comunicado el número de identificación que a efectos del Impuesto
-sobre el Valor Añadido tengan asignado por la Administración española.
+entregas de gas y electricidad o las entregas de calor o de frío a
+través de las redes de calefacción o de refrigeración que se entiendan
+realizadas en el territorio de aplicación del impuesto conforme a lo
+dispuesto en el apartado siete del artículo 68, siempre que la entrega
+la efectúe un empresario o profesional no establecido en el citado
+territorio y le hayan comunicado el número de identificación que a
+efectos del Impuesto sobre el Valor Añadido tengan asignado por la
+Administración española.
 
 Dos. A los efectos de lo dispuesto en este artículo, se considerarán
 establecidos en el territorio de aplicación del Impuesto los sujetos
@@ -5893,9 +5911,8 @@ documentos que se presenten para el cobro, sin que el importe global
 contratado experimente incremento como consecuencia de la consignación
 del tributo repercutido.
 
-Dos. La repercusión del impuesto deberá efectuarse mediante factura o
-documento sustitutivo, en las condiciones y con los requisitos que se
-determinen reglamentariamente.
+Dos. La repercusión del Impuesto deberá efectuarse mediante factura en
+las condiciones y con los requisitos que se determinen reglamentariamente.
 
 A estos efectos, la cuota repercutida se consignará separadamente de la
 base imponible, incluso en el caso de precios fijados
@@ -5904,8 +5921,8 @@ administrativamente, indicando el tipo impositivo aplicado.
 Se exceptuarán de lo dispuesto en los párrafos anteriores de este
 apartado las operaciones que se determinen reglamentariamente.
 
-Tres. La repercusión del impuesto deberá efectuarse al tiempo de expedir
-y entregar la factura o documento sustitutivo correspondiente.
+Tres. La repercusión del Impuesto deberá efectuarse al tiempo de expedir
+y entregar la factura correspondiente.
 
 Cuatro. Se perderá el derecho a la repercusión cuando haya transcurrido
 un año desde la fecha del devengo.
@@ -5936,7 +5953,7 @@ produjeron las circunstancias a que se refiere el citado artículo 80.
 
 Dos. Lo dispuesto en el apartado anterior será también de aplicación
 cuando, no habiéndose repercutido cuota alguna, se hubiese expedido la
-factura o documento sustitutivo correspondiente a la operación.
+factura correspondiente a la operación.
 
 Tres. No obstante lo dispuesto en los apartados anteriores, no procederá
 la rectificación de las cuotas impositivas repercutidas en los
@@ -5962,14 +5979,14 @@ Cinco. Cuando la rectificación de las cuotas implique un aumento de las
 inicialmente repercutidas y no haya mediado requerimiento previo, el
 sujeto pasivo deberá presentar una declaración-liquidación rectificativa
 aplicándose a la misma el recargo y los intereses de demora que procedan
-de conformidad con lo previsto en el artículo 61, número 3 de la Ley
+de conformidad con lo establecido en los artículos 26 y 27 de la Ley
 General Tributaria.
 
 No obstante lo dispuesto en el párrafo anterior, cuando la rectificación
 se funde en las causas de modificación de la base imponible establecidas
 en el artículo 80 de esta Ley o se deba a un error fundado de derecho,
 el sujeto pasivo podrá incluir la diferencia correspondiente en la
-declaración-liquidación del período en que se deba efectuar la
+declaración-liquidación del periodo en que se deba efectuar la
 rectificación.
 
 Cuando la rectificación determine una minoración de las cuotas
@@ -5980,11 +5997,18 @@ a) Iniciar ante la Administración Tributaria el correspondiente
 procedimiento de devolución de ingresos indebidos.
 
 b) Regularizar la situación tributaria en la declaración-liquidación
-correspondiente al período en que deba efectuarse la rectificación o en
+correspondiente al periodo en que deba efectuarse la rectificación o en
 las posteriores hasta el plazo de un año a contar desde el momento en
 que debió efectuarse la mencionada rectificación. En este caso, el
 sujeto pasivo estará obligado a reintegrar al destinatario de la
 operación el importe de las cuotas repercutidas en exceso.
+
+En los supuestos en que la operación gravada quede sin efecto como
+consecuencia del ejercicio de una acción de reintegración concursal u
+otras de impugnación ejercitadas en el seno del concurso, el sujeto
+pasivo deberá proceder a la rectificación de las cuotas inicialmente
+repercutidas en la declaración-liquidación correspondiente al periodo en
+que fueron declaradas las cuotas devengadas.
 
 TÍTULO VII
 
@@ -5992,7 +6016,7 @@ El tipo impositivo
 
 Artículo 90. Tipo impositivo general.
 
-Uno. El Impuesto se exigirá al tipo del 18 por ciento, salvo lo
+Uno. El Impuesto se exigirá al tipo del 21 por ciento, salvo lo
 dispuesto en el artículo siguiente.
 
 Dos. El tipo impositivo aplicable a cada operación será el vigente en el
@@ -6014,7 +6038,7 @@ correspondido a los citados servicios si no hubiesen estado exentos.
 
 Artículo 91. Tipos impositivos reducidos.
 
-Uno. Se aplicará el tipo del 8 por ciento a las operaciones siguientes:
+Uno. Se aplicará el tipo del 10 por ciento a las operaciones siguientes:
 
 1. Las entregas, adquisiciones intracomunitarias o importaciones de los
 bienes que se indican a continuación:
@@ -6055,9 +6079,6 @@ ganadero; los plásticos para cultivos en acolchado, en túnel o en
 invernadero y las bolsas de papel para la protección de las frutas antes
 de su recolección.
 
-No se comprenderán en este número la maquinaria, utensilios o
-herramientas utilizadas en las citadas actividades.
-
 4.º Las aguas aptas para la alimentación humana o animal o para el
 riego, incluso en estado sólido.
 
@@ -6091,25 +6112,22 @@ No se considerarán edificios aptos para su utilización como viviendas
 las edificaciones destinadas a su demolición a que se refiere el
 artículo 20, apartado uno, número 22.º, parte A), letra c) de esta ley.
 
-8.º *(Suprimido)*
-
-9.º Las flores, las plantas vivas de carácter ornamental, así como las
-semillas, bulbos, esquejes y otros productos de origen exclusivamente
-vegetal susceptibles de ser utilizados en su obtención.
-
-10º *(Suprimido)*
+8.º Las semillas, bulbos, esquejes y otros productos de origen
+exclusivamente vegetal susceptibles de ser utilizados en la obtención de
+flores y plantas vivas.
 
 2. Las prestaciones de servicios siguientes:
 
 1.º Los transportes de viajeros y sus equipajes.
 
-Se entenderán por vehículos de turismo, todos los vehículos ligeros de
-dos ejes y cuatro ruedas que no transporten mercancías.
-
 2.º Los servicios de hostelería, acampamento y balneario, los de
 restaurantes y, en general, el suministro de comidas y bebidas para
 consumir en el acto, incluso si se confeccionan previo encargo del
 destinatario.
+
+Se exceptúan de lo dispuesto en el párrafo anterior, los servicios
+mixtos de hostelería, espectáculos, discotecas, salas de fiesta,
+barbacoas u otros análogos.
 
 3.º Las efectuadas en favor de titulares de explotaciones agrícolas,
 forestales o ganaderas, necesarias para el desarrollo de las mismas, que
@@ -6132,14 +6150,9 @@ consecuencia de su actividad cooperativizada y en cumplimiento de su
 objeto social, incluida la utilización por los socios de la maquinaria
 en común.
 
-4.º Los prestados por intérpretes, artistas, directores y técnicos, que
-sean personas físicas, a los productores de películas cinematográficas
-susceptibles de ser exhibidas en salas de espectáculos y a los
-organizadores de obras teatrales y musicales.
+4.º Los servicios de limpieza de vías públicas, parques y jardines públicos.
 
-5.º Los servicios de limpieza de vías públicas, parques y jardines públicos.
-
-6.º Los servicios de recogida, almacenamiento, transporte, valorización
+5.º Los servicios de recogida, almacenamiento, transporte, valorización
 o eliminación de residuos, limpieza de alcantarillados públicos y
 desratización de los mismos y la recogida o tratamiento de las aguas
 residuales.
@@ -6151,41 +6164,19 @@ recogida de residuos.
 Se incluyen también en este número los servicios de recogida o
 tratamiento de vertidos en aguas interiores o marítimas.
 
-7.º La entrada a teatros, circos, espectáculos y festejos taurinos con
-excepción de las corridas de toros, parques de atracciones y atracciones
-de feria, conciertos, bibliotecas, museos, parques zoológicos, salas
-cinematográficas y exposiciones, así como a las demás manifestaciones
-similares de carácter cultural a que se refiere el artículo 20, apartado
-uno, número 14 de esta Ley cuando no estén exentas del Impuesto.
+6.º La entrada a bibliotecas, archivos y centros de documentación y
+museos, galerías de arte y pinacotecas.
 
-8.º Los servicios prestados a personas físicas que practiquen el deporte
-o la educación física, cualquiera que sea la persona o entidad a cuyo
-cargo se realice la prestación, siempre que tales servicios estén
-directamente relacionados con dichas prácticas y no resulte aplicable a
-los mismos la exención a que se refiere el artículo 20, apartado uno,
-número 13.o de esta Ley.
-
-9.º Las prestaciones de servicios a que se refiere el número 8º del
+7.º Las prestaciones de servicios a que se refiere el número 8º del
 apartado uno del artículo 20 de esta ley cuando no estén exentas de
 acuerdo con dicho precepto ni les resulte de aplicación el tipo
 impositivo establecido en el número 3º del apartado dos.2 de este artículo.
 
-10º. Los servicios funerarios efectuados por las empresas funerarias y
-los cementerios, y las entregas de bienes relacionados con los mismos
-efectuadas a quienes sean destinatarios de los mencionados servicios.
+8.º Los espectáculos deportivos de carácter aficionado.
 
-11.º La asistencia sanitaria, dental y curas termales que no gocen de
-exención de acuerdo con el artículo 20 de esta Ley.
+9.º Las exposiciones y ferias de carácter comercial.
 
-12.º Los espectáculos deportivos de carácter aficionado.
-
-13.º Las exposiciones y ferias de carácter comercial.
-
-14.º Los servicios de peluquería, incluyendo, en su caso, aquellos
-servicios complementarios a que faculte el epígrafe 972.1 de las tarifas
-del Impuesto sobre Actividades Económicas.
-
-15.º Las ejecuciones de obra de renovación y reparación realizadas en
+10.º Las ejecuciones de obra de renovación y reparación realizadas en
 edificios o partes de los mismos destinados a viviendas, cuando se
 cumplan los siguientes requisitos:
 
@@ -6202,18 +6193,19 @@ las obras haya concluido al menos dos años antes del inicio de estas
 últimas.
 
 c) Que la persona que realice las obras no aporte materiales para su
-ejecución o, en el caso de que los aporte, su coste no exceda del 33 por
+ejecución o, en el caso de que los aporte, su coste no exceda del 40 por
 ciento de la base imponible de la operación.
 
-16.º El suministro y recepción de servicios de radiodifusión digital y
-televisión digital, quedando excluidos de este concepto la explotación
-de las infraestructuras de transmisión y la prestación de servicios de
-comunicaciones electrónicas necesarias a tal fin.
+11.º Los arrendamientos con opción de compra de edificios o partes de
+los mismos destinados exclusivamente a viviendas, incluidas las plazas
+de garaje, con un máximo de dos unidades, y anexos en ellos situados que
+se arrienden conjuntamente.
 
-17.º Los arrendamientos con opción de compra de edificios o parte de los
-mismos destinados exclusivamente a viviendas, incluidas las plazas de
-garaje, con un máximo de dos unidades, y anexos en ellos situados que se
-arrienden conjuntamente.
+12.º La cesión de los derechos de aprovechamiento por turno de
+edificios, conjuntos inmobiliarios o sectores de ellos
+arquitectónicamente diferenciados cuando el inmueble tenga, al menos,
+diez alojamientos, de acuerdo con lo establecido en la normativa
+reguladora de estos servicios.
 
 3. Las siguientes operaciones:
 
@@ -6224,43 +6216,27 @@ edificaciones o partes de las mismas destinadas principalmente a
 viviendas, incluidos los locales, anejos, garajes, instalaciones y
 servicios complementarios en ellos situados.
 
-Se considerarán destinadas principalmente a viviendas las edificaciones
-en las que, al menos el 50 por 100 de la superficie construida, se
+Se considerarán destinadas principalmente a viviendas, las edificaciones
+en las que al menos el 50 por ciento de la superficie construida se
 destine a dicha utilización.
 
 2.º Las ventas con instalación de armarios de cocina y de baño y de
-armarios empotrados para las edificaciones a que se refiere el número
-1.º anterior, que sean realizadas como consecuencia de contratos
+armarios empotrados para las edificaciones a que se refiere el número 1º
+anterior, que sean realizadas como consecuencia de contratos
 directamente formalizados con el promotor de la construcción o
 rehabilitación de dichas edificaciones.
 
 3.º Las ejecuciones de obra, con o sin aportación de materiales,
 consecuencia de contratos directamente formalizados entre las
-comunidades de propietarios de las edificaciones o partes de las mismas
-a que se refiere el número 1.º anterior y el contratista que tengan por
+Comunidades de Propietarios de las edificaciones o partes de las mismas
+a que se refiere el número 1º anterior y el contratista que tengan por
 objeto la construcción de garajes complementarios de dichas
 edificaciones, siempre que dichas ejecuciones de obra se realicen en
-terrenos o locales que sean elementos comunes de dichas comunidades y el
+terrenos o locales que sean elementos comunes de dichas Comunidades y el
 número de plazas de garaje a adjudicar a cada uno de los propietarios no
 exceda de dos unidades.
 
-4. Las importaciones de objetos de arte, antigüedades y objetos de
-colección, cualquiera que sea el importador de los mismos, y las
-entregas de objetos de arte realizadas por las siguientes personas:
-
-1.º Por sus autores o derechohabientes.
-
-2.º Por empresarios o profesionales distintos de los revendedores de
-objetos de arte a que se refiere el artículo 136 de esta Ley, cuando
-tengan derecho a deducir íntegramente el Impuesto soportado por
-repercusión directa o satisfecho en la adquisición o importación del
-mismo bien.
-
-5. Las adquisiciones intracomunitarias de objetos de arte cuando el
-proveedor de los mismos sea cualquiera de las personas a que se refieren
-los números 1.º y 2.º del número 4 precedente.
-
-Dos. Se aplicará el tipo del 4 por 100 a las operaciones siguientes:
+Dos. Se aplicará el tipo del 4 por ciento a las operaciones siguientes:
 
 1. Las entregas, adquisiciones intracomunitarias o importaciones de los
 bienes que se indican a continuación:
@@ -6314,23 +6290,21 @@ principalmente programas o aplicaciones que se comercialicen de forma
 independiente en el mercado.
 
 Se entenderá que los libros, periódicos y revistas contienen
-fundamentalmente publicidad cuando más del 75 por 100 de los ingresos
-que proporcionen a su editor se obtengan por este concepto.
+fundamentalmente publicidad cuando más del 75 por ciento de los ingresos
+que proporcionen a su editor se obtengan por este concepto
 
 Se considerarán comprendidos en este número los álbumes, partituras,
-mapas, cuadernos de dibujo y los objetos que, por sus características,
-sólo puedan utilizarse como material escolar, excepto los artículos y
-aparatos electrónicos.
+mapas y cuadernos de dibujo, excepto los artículos y aparatos electrónicos.
 
 3.º Los medicamentos para uso humano, así como las sustancias
 medicinales, formas galénicas y productos intermedios, susceptibles de
 ser utilizados habitual e idóneamente en su obtención.
 
 4.º Los vehículos para personas con movilidad reducida a que se refiere
-el número 20 del anexo I del Real Decreto Legislativo 339/1990, de 2 de
+el número 20 del Anexo I del Real Decreto Legislativo 339/1990, de 2 de
 marzo, por el que se aprueba el Texto Articulado de la Ley sobre
 Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, en la
-redacción dada por el anexo II A del Real Decreto 2822/1998, de 23 de
+redacción dada por el Anexo II A del Real Decreto 2822/1998, de 23 de
 diciembre, por el que se aprueba el Reglamento General de Vehículos, y
 las sillas de ruedas para uso exclusivo de personas con minusvalía.
 
@@ -6339,17 +6313,17 @@ especiales para el transporte de personas con minusvalía en silla de
 ruedas, bien directamente o previa su adaptación, así como los vehículos
 a motor que, previa adaptación o no, deban transportar habitualmente a
 personas con minusvalía en silla de ruedas o con movilidad reducida, con
-independencia de quién sea el conductor de los mismos.
+independencia de quien sea el conductor de los mismos.
 
 La aplicación del tipo impositivo reducido a los vehículos comprendidos
 en el párrafo anterior requerirá el previo reconocimiento del derecho
 del adquirente, que deberá justificar el destino del vehículo.
 
-A efectos de esta Ley, se considerarán personas con minusvalías aquellas
-con un grado de minusvalía igual o superior al 33 por ciento. El grado
-de minusvalía deberá acreditarse mediante certificación o resolución
-expedida por el Instituto de Migraciones y Servicios Sociales o el
-órgano competente de la Comunidad Autónoma.
+A efectos de esta Ley, se considerarán personas con discapacidades
+aquellas con un grado de discapacidad igual o superior al 33 por ciento.
+El grado de discapacidad deberá acreditarse mediante certificación o
+resolución expedida por el Instituto de Mayores y Servicios Sociales o
+el órgano competente de la comunidad autónoma.
 
 5.º Las prótesis, órtesis e implantes internos para personas con minusvalía.
 
@@ -6395,7 +6369,7 @@ consecuencia de una prestación económica vinculada a tales servicios que
 cubra más del 75 por ciento de su precio, en aplicación, en ambos casos,
 de lo dispuesto en dicha Ley.
 
- Lo dispuesto en este número 3.º no se aplicará a los servicios que
+Lo dispuesto en este número 3.º no se aplicará a los servicios que
 resulten exentos por aplicación del número 8.º del apartado uno del
 artículo 20 de esta Ley.
 
@@ -6817,23 +6791,41 @@ No obstante, en los supuestos de destrucción o pérdida de los bienes
 adquiridos o importados, por causa no imputable al sujeto pasivo
 debidamente justificada, no será exigible la referida rectificación.
 
-Tres. El derecho a la deducción sólo podrá ejercitarse en la
-declaración-liquidación relativa al período de liquidación en que su
+Tres. El derecho a la deducción solo podrá ejercitarse en la
+declaración-liquidación relativa al periodo de liquidación en que su
 titular haya soportado las cuotas deducibles o en las de los sucesivos,
-siempre que no hubiere transcurrido el plazo de cuatro años, contados a
+siempre que no hubiera transcurrido el plazo de cuatro años, contados a
 partir del nacimiento del mencionado derecho.
 
+Sin embargo, en caso de declaración de concurso, el derecho a la
+deducción de las cuotas soportadas con anterioridad a la misma, que
+estuvieran pendientes de deducir, deberá ejercitarse en la
+declaración-liquidación correspondiente al periodo de liquidación en el
+que se hubieran soportado.
+
+Cuando no se hubieran incluido las cuotas soportadas deducibles a que se
+refiere el párrafo anterior en dichas declaraciones-liquidaciones, y
+siempre que no hubiera transcurrido el plazo de cuatro años, contados a
+partir del nacimiento del derecho a la deducción de tales cuotas, el
+concursado o, en los casos previstos por el artículo 86.3 de la Ley
+Concursal, la administración concursal, podrá deducirlas mediante la
+rectificación de la declaración-liquidación relativa al periodo en que
+fueron soportadas.
+
 Cuando hubiese mediado requerimiento de la Administración o actuación
-inspectora, serán deducibles en las liquidaciones que procedan, las
+inspectora, serán deducibles, en las liquidaciones que procedan, las
 cuotas soportadas que estuviesen debidamente contabilizadas en los
-libros registro establecidos reglamentariamente para este impuesto,
-siempre que no hubiera transcurrido el plazo a que se refiere el párrafo
-anterior.
+libros registros establecidos reglamentariamente para este Impuesto,
+mientras que las cuotas no contabilizadas serán deducibles en la
+declaración-liquidación del periodo correspondiente a su contabilización
+o en las de los siguientes. En todo caso, unas y otras cuotas solo
+podrán deducirse cuando no haya transcurrido el plazo a que se refiere
+el primer párrafo.
 
 En el supuesto de las ventas ocasionales a que se refiere el artículo 5,
-apartado uno, letra e) de esta Ley, el derecho a la deducción sólo podrá
-ejercitarse en la declaración relativa al período en que se realice la
-entrega de los correspondientes medios de transportes nuevos.
+apartado uno, letra e), de esta Ley, el derecho a la deducción solo
+podrá ejercitarse en la declaración relativa al periodo en que se
+realice la entrega de los correspondientes medios de transporte nuevos.
 
 Cuatro. Se entenderán soportadas las cuotas deducibles en el momento en
 que el empresario o profesional que las soportó reciba la
@@ -6849,7 +6841,7 @@ Ley, las cuotas deducibles se entenderán soportadas en el momento en que
 nazca el derecho a la deducción.
 
 Cinco. Cuando la cuantía de las deducciones procedentes supere el
-importe de las cuotas devengadas en el mismo período de liquidación, el
+importe de las cuotas devengadas en el mismo periodo de liquidación, el
 exceso podrá ser compensado en las declaraciones-liquidaciones
 posteriores, siempre que no hubiesen transcurrido cuatro años contados a
 partir de la presentación de la declaración-liquidación en que se
@@ -6857,10 +6849,15 @@ origine dicho exceso.
 
 No obstante, el sujeto pasivo podrá optar por la devolución del saldo
 existente a su favor cuando resulte procedente en virtud de lo dispuesto
-en el capítulo II de este Título, sin que en tal caso pueda efectuar su
+en el Capítulo II de este Título, sin que en tal caso pueda efectuar su
 compensación en declaraciones-liquidaciones posteriores, cualquiera que
-sea el período de tiempo transcurrido hasta que dicha devolución se haga
+sea el periodo de tiempo transcurrido hasta que dicha devolución se haga
 efectiva.
+
+En la declaración-liquidación, prevista reglamentariamente, referida a
+los hechos imponibles anteriores a la declaración de concurso se deberá
+aplicar la totalidad de los saldos acumulados a compensar de periodos de
+liquidación anteriores a dicha declaración.
 
 Artículo 100. Caducidad del derecho a la deducción.
 
@@ -7467,11 +7464,26 @@ justificativo del derecho a deducir por el que se rectifican dichas cuotas.
 cuotas inicialmente deducidas, el sujeto pasivo deberá presentar una
 declaración-liquidación rectificativa aplicándose a la misma el recargo
 y los intereses de demora que procedan de conformidad con lo previsto en
-el artículo 61, número 3 de la Ley General Tributaria.
+los artículos 26 y 27 de la Ley General Tributaria.
+
+Tratándose del supuesto previsto en el artículo 80.Tres de esta Ley, la
+rectificación deberá efectuarse en la declaración-liquidación
+correspondiente al periodo en que se ejerció el derecho a la deducción
+de las cuotas soportadas, sin que proceda la aplicación de recargos ni
+de intereses de demora.
+
+En los supuestos en que la operación gravada quede sin efecto como
+consecuencia del ejercicio de una acción de reintegración concursal u
+otras de impugnación ejercitadas en el seno del concurso, si el
+comprador o adquirente inicial se encuentra también en situación de
+concurso, deberá proceder a la rectificación de las cuotas inicialmente
+deducidas en la declaración-liquidación correspondiente al periodo en
+que se ejerció el derecho a la deducción de las cuotas soportadas, sin
+que proceda la aplicación de recargos ni de intereses de demora.
 
 No obstante, cuando la rectificación tenga su origen en un error fundado
-de derecho o en las causas del artículo 80 de esta Ley, éste deberá
-efectuarse en la declaración-liquidación correspondiente al período
+de derecho o en las restantes causas del artículo 80 de esta Ley deberá
+efectuarse en la declaración-liquidación correspondiente al periodo
 impositivo en que el sujeto pasivo reciba el documento justificativo del
 derecho a deducir en el que se rectifiquen las cuotas inicialmente
 soportadas.
@@ -8236,11 +8248,11 @@ de este artículo será la cantidad resultante de aplicar, al precio de
 venta de los productos o de los servicios indicados en dicho apartado,
 el porcentaje que proceda de entre los que se indican a continuación:
 
-1.º El 10 por 100, en las entregas de productos naturales obtenidos en
+1.º El 12 por 100, en las entregas de productos naturales obtenidos en
 explotaciones agrícolas o forestales y en los servicios de carácter
 accesorio de dichas explotaciones.
 
-2.º El 8,5 por 100, en las entregas de productos naturales obtenidos en
+2.º El 10,5 por 100, en las entregas de productos naturales obtenidos en
 explotaciones ganaderas o pesqueras y en los servicios de carácter
 accesorio de dichas explotaciones.
 
@@ -8377,33 +8389,31 @@ antigüedades y objetos de colección.
 Uno. Los sujetos pasivos revendedores de bienes usados o de bienes
 muebles que tengan la consideración de objetos de arte, antigüedades u
 objetos de colección aplicarán el régimen especial regulado en este
-capítulo a las siguientes entregas de bienes:
+Capítulo a las siguientes entregas de bienes:
 
-1.ª Entregas de bienes usados, objetos de arte, antigüedades u objetos
+1.º Entregas de bienes usados, objetos de arte, antigüedades y objetos
 de colección adquiridos por el revendedor a:
 
 a) Una persona que no tenga la condición de empresario o profesional.
 
 b) Un empresario o profesional que se beneficie del régimen de
 franquicia del Impuesto en el Estado miembro de inicio de la expedición
-o transporte del bien, siempre que dicho bien tuviese para el referido
+o transporte del bien, siempre que dicho bien tuviera para el referido
 empresario o profesional la consideración de bien de inversión.
 
 c) Un empresario o profesional en virtud de una entrega exenta del
 Impuesto, por aplicación de lo dispuesto en el artículo 20, apartado
-uno, números 24.º ó 25.º, de esta Ley.
+uno, números 24º o 25º de esta Ley.
 
 d) Otro sujeto pasivo revendedor que haya aplicado a su entrega el
 régimen especial de los bienes usados, objetos de arte, antigüedades y
 objetos de colección.
 
-2.ª Entregas de objetos de arte, antigüedades u objetos de colección que
+2.º Entregas de objetos de arte, antigüedades u objetos de colección que
 hayan sido importados por el propio sujeto pasivo revendedor.
 
-3.ª Entregas de objetos de arte adquiridos a empresarios o profesionales
-en virtud de las operaciones a las que haya sido de aplicación el tipo
-impositivo reducido establecido en el artículo 91, apartado uno, números
-4 y 5, de esta Ley.
+3.º Entregas de objetos de arte adquiridos a empresarios o profesionales
+que sean autores o derechohabientes de los mismos.
 
 Dos. No obstante lo dispuesto en el apartado anterior, los sujetos
 pasivos revendedores podrán aplicar a cualquiera de las operaciones
@@ -9138,18 +9148,18 @@ Artículo 161. Tipos.
 
 Los tipos del recargo de equivalencia serán los siguientes:
 
-1.º Con carácter general, el 4 por 100.
+1.º Con carácter general, el 5,2 por ciento.
 
 2.º Para las entregas de bienes a las que resulte aplicable el tipo
-impositivo establecido en el artículo 91, apartado uno, de esta Ley, el
-1 por 100.
+impositivo establecido en el artículo 91, apartado uno de esta Ley, el
+1,4 por ciento.
 
 3.º Para las entregas de bienes a las que sea aplicable el tipo
-impositivo previsto en el artículo 91, apartado dos, de esta Ley, el
-0,50 por 100.
+impositivo previsto en el artículo 91, apartado dos de esta Ley, el 0,50
+por ciento.
 
 4.º Para las entregas de bienes objeto del Impuesto Especial sobre las
-Labores del Tabaco, el 1,75 por 100.
+Labores del Tabaco, el 1,75 por ciento.
 
 Artículo 162. Liquidación e ingreso.
 
@@ -9300,9 +9310,9 @@ Este registro de operaciones deberá conservarse por el empresario o
 profesional no establecido durante un período de diez años desde el
 final del año en que se hubiera realizado la operación.
 
-e) Expedir y entregar factura o documento sustitutivo cuando el
-destinatario de las operaciones se encuentre establecido o tenga su
-residencia o domicilio habitual en el territorio de aplicación del impuesto.
+e) Expedir y entregar factura cuando el destinatario de las operaciones
+se encuentre establecido o tenga su residencia o domicilio habitual en
+el territorio de aplicación del Impuesto.
 
 Dos. En caso de que el empresario o profesional no establecido hubiera
 elegido cualquier otro Estado miembro distinto de España para presentar
@@ -9318,9 +9328,9 @@ Además, el empresario o profesional no establecido deberá cumplir el
 resto de obligaciones contenidas en el apartado Uno anterior en el
 Estado miembro de identificación y, en particular, las establecidas en
 la letra d) de dicho apartado. Asimismo, el empresario o profesional
-deberá expedir y entregar factura o documento sustitutivo cuando el
-destinatario de las operaciones se encuentre establecido o tenga su
-residencia o domicilio habitual en el territorio de aplicación del Impuesto.
+deberá expedir y entregar factura cuando el destinatario de las
+operaciones se encuentre establecido o tenga su residencia o domicilio
+habitual en el territorio de aplicación del Impuesto.
 
 Tres. El Ministro de Hacienda dictará las disposiciones necesarias para
 el desarrollo y aplicación de lo establecido en el presente capítulo.
@@ -9774,20 +9784,23 @@ citados empresarios o profesionales o por un tercero, los cuales
 actuarán, en todo caso, en nombre y por cuenta del mismo.
 
 Cuando la citada obligación se cumpla por un cliente del empresario o
-profesional, deberá existir un acuerdo previo entre ambas partes,
-formalizado por escrito. Asimismo, deberá garantizarse la aceptación por
-dicho empresario o profesional de cada una de las facturas expedidas en
-su nombre y por su cuenta, por su cliente.
+profesional, deberá existir un acuerdo previo entre ambas partes.
+Asimismo, deberá garantizarse la aceptación por dicho empresario o
+profesional de cada una de las facturas expedidas en su nombre y por su
+cuenta, por su cliente.
 
-Las facturas expedidas por el empresario o profesional, por su cliente o
-por un tercero, en nombre y por cuenta del citado empresario o
-profesional, podrán ser transmitidas por medios electrónicos, siempre
-que, en este último caso, el destinatario de las facturas haya dado su
-consentimiento y los medios electrónicos utilizados en su transmisión
-garanticen la autenticidad de su origen y la integridad de su contenido.
+La expedición de facturas por el empresario o profesional, por su
+cliente o por un tercero, en nombre y por cuenta del citado empresario o
+profesional, podrá realizarse por cualquier medio, en papel o en formato
+electrónico, siempre que, en este último caso, el destinatario de las
+facturas haya dado su consentimiento.
+
+La factura, en papel o electrónica, deberá garantizar la autenticidad de
+su origen, la integridad de su contenido y su legibilidad, desde la
+fecha de expedición y durante todo el periodo de conservación.
 
 Reglamentariamente se determinarán los requisitos a los que deba
-ajustarse la facturación electrónica.
+ajustarse la expedición, remisión y conservación de facturas.
 
 Tres. Lo previsto en los apartados anteriores será igualmente aplicable
 a quienes, sin ser sujetos pasivos de este impuesto, tengan sin embargo
@@ -9955,9 +9968,13 @@ procedido al ingreso de las mismas.
 
 4.º La no consignación en la autoliquidación que se debe presentar por
 el periodo correspondiente de las cantidades de las que sea sujeto
-pasivo el destinatario de las operaciones conforme a los números 2.º,
-3.º y 4.º del artículo 84.uno, del artículo 85 o del artículo 140
+pasivo el destinatario de las operaciones conforme a los números 2.°,
+3.° y 4.° del artículo 84.uno, del artículo 85 o del artículo 140
 quinque de esta Ley.
+
+5.º La falta de presentación o la presentación incorrecta o incompleta
+de las declaraciones-liquidaciones relativas a las operaciones reguladas
+en el número 5.º del artículo 19 de esta Ley.
 
 Artículo 171. Sanciones.
 
@@ -9976,12 +9993,25 @@ obtenido.
 
 3.º Las establecidas en el ordinal 3.º del apartado dos, con multa
 pecuniaria proporcional del 100 por ciento de las cuotas indebidamente
-repercutidas, con un mínimo de 300 euros por cada factura o documento
-sustitutivo en que se produzca la infracción.
+repercutidas, con un mínimo de 300 euros por cada factura en que se
+produzca la infracción.
 
 4.º Las establecidas en el ordinal 4.º del apartado dos, con multa
 pecuniaria proporcional del 10 por ciento de la cuota correspondiente a
 las operaciones no consignadas en la autoliquidación.
+
+5.º Las establecidas en el ordinal 5.º del apartado dos, con multa
+pecuniaria proporcional del 10 por ciento de las cuotas devengadas
+correspondientes a las operaciones no consignadas o consignadas
+incorrectamente o de forma incompleta en las
+declaraciones-liquidaciones. No obstante, cuando se trate de
+declaraciones-liquidaciones relativas al abandono del régimen de
+depósito distinto del aduanero, se sancionará con multa pecuniaria
+proporcional del 10 por ciento de las cuotas devengadas correspondientes
+a las operaciones no consignadas o consignadas incorrectamente o de
+forma incompleta, siempre que la suma total de cuotas declaradas en la
+declaración-liquidación sea inferior al de las efectivamente devengadas
+en el periodo.
 
 Dos. La sanción impuesta de acuerdo con lo previsto en la norma 4.ª del
 apartado uno de este artículo se reducirá conforme a lo dispuesto en el
@@ -10111,16 +10141,12 @@ de ejecución forzosa.
 
 En los procedimientos administrativos y judiciales de ejecución forzosa,
 los adjudicatarios que tengan la condición de empresario o profesional a
-efectos de este impuesto están facultados, en nombre y por cuenta del
-sujeto pasivo, y con respecto a las entregas de bienes y prestaciones de
-servicios sujetas al mismo que se produzcan en aquéllos, para:
-
-1.º Expedir la factura en que se documente la operación y se repercuta
-la cuota del impuesto, presentar la declaración-liquidación
-correspondiente e ingresar el importe del impuesto resultante.
-
-2.º Efectuar, en su caso, la renuncia a las exenciones prevista en el
-artículo 20.2.
+efectos de este Impuesto están facultados, en nombre y por cuenta del
+sujeto pasivo y con respecto a las entregas de bienes y prestaciones de
+servicios sujetas al mismo que se produzcan en aquéllos, para expedir
+factura en la que se documente la operación y se repercuta la cuota del
+Impuesto, presentar la declaración-liquidación correspondiente e
+ingresar el importe del Impuesto resultante.
 
 Reglamentariamente se determinarán las condiciones y requisitos para el
 ejercicio de estas facultades.
@@ -10128,7 +10154,7 @@ ejercicio de estas facultades.
 Lo dispuesto en la presente disposición no se aplicará a las entregas de
 bienes inmuebles en las que el sujeto pasivo de las mismas sea su
 destinatario de acuerdo con lo dispuesto en la letra e) del artículo
-84.1.2.º
+84.Uno.2.º.
 
 Disposición transitoria primera. Franquicias relativas a los viajeros
 procedentes de Canarias, Ceuta y Melilla.
@@ -10261,9 +10287,16 @@ de 1985.
 b) Que el impuesto devengado por la importación sea inferior a 25.000
 pesetas.
 
-Disposición transitoria undécima. Tipos impositivos.
+Disposición transitoria undécima. Régimen especial de los bienes usados,
+objetos de arte, antigüedades y objetos de colección.
 
-*(Derogada)*
+Los sujetos pasivos revendedores de bienes usados o de bienes muebles, a
+que se refiere el artículo 136.Uno.5.º de esta Ley, podrán aplicar el
+régimen especial de los bienes usados, objetos de arte, antigüedades y
+objetos de colección a las entregas de objetos de arte, adquiridos a
+empresarios o profesionales, distintos de los revendedores a que se
+refiere el artículo 136 de la Ley, cuando a dicha adquisición hubiera
+sido de aplicación un tipo reducido del Impuesto.
 
 Disposición transitoria duodécima. Devengo en las entregas de
 determinados medios de transporte.
